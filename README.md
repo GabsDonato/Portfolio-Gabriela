@@ -24,8 +24,8 @@ O site é composto por seis seções:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML;
+- CSS;
 - React js;
-- JavaScript ;
 
 ---
 
