@@ -7,45 +7,54 @@
 <h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
 ---
-Funcionalidades Principais
+# Funcionalidades Principais
 
-Botão de Mudança de Idiomas
+## Botão de Mudança de Idiomas
 
-Na página inicial (HOME), há um botão que permite alternar entre os idiomas Português do Brasil (PT-BR) e Inglês dos Estados Unidos (EN-EUA).
+Na página inicial `HOME`, há um botão que permite alternar entre os idiomas Português do Brasil (PT-BR) e Inglês dos Estados Unidos (EN-EUA).
 Ao clicar no botão, o conteúdo do portfólio é atualizado para o idioma selecionado.
-Integração com API do GitHub
+
+## Integração com API do GitHub
 
 O código faz uma chamada para a API do GitHub para obter os repositórios do usuário.
 Os repositórios são exibidos no portfólio, fornecendo informações relevantes sobre cada projeto.
-Barra de Navegação (Navbar)
+
+## Barra de Navegação (Navbar)
 
 A barra de navegação contém os seguintes itens:
-HOME: Redireciona para a página inicial do portfólio.
-ABOUT ME: Apresenta informações sobre o desenvolvedor.
-EXPERIENCES: Exibe as experiências e habilidades do desenvolvedor.
-PROJECTS: Mostra os projetos desenvolvidos.
-Seção de Experiências e Habilidades
+`HOME`: Redireciona para a página inicial do portfólio.
+`ABOUT ME`: Apresenta informações sobre o desenvolvedor.
+`EXPERIENCES`: Exibe as experiências e habilidades do desenvolvedor.
+`PROJECTS`: Mostra os projetos desenvolvidos.
+
+## Seção de Experiências e Habilidades
 
 Na seção "EXPERIENCES", são apresentadas as habilidades do desenvolvedor, juntamente com atributos de desempenho.
 As habilidades mencionadas incluem:
-React
-Java
-C#
+`React`
+`Java`
+`C#`
 Outras habilidades relevantes
-Versão Mobile
+
+## Versão Mobile
 
 O portfólio possui uma versão otimizada para dispositivos móveis.
 Na versão mobile, um menu é disponibilizado para visualizar a barra lateral (sidebar) de navegação.
-Rodapé (Footer)
+
+## Rodapé (Footer)
 
 O rodapé contém links para as redes sociais do desenvolvedor.
 Também são fornecidas informações de contato.
-Ferramentas Utilizadas
 
-Figma: Utilizado para o design e prototipação do portfólio.
-Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para codificar o projeto.
-GitHub: Plataforma de controle de versão e hospedagem do código-fonte.
-Material UI: Biblioteca de componentes React utilizada para estilização e design consistente.
+## Ferramentas Utilizadas
+
+`Figma`: Utilizado para o design e prototipação do portfólio.
+
+`Visual Studio Code`: Ambiente de desenvolvimento integrado (IDE) utilizado para codificar o projeto.
+
+`GitHub`: Plataforma de controle de versão e hospedagem do código-fonte.
+
+`Material UI`: Biblioteca de componentes React utilizada para estilização e design consistente.
 
 <h2>Author</h2>
 
