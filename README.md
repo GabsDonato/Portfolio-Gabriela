@@ -7,7 +7,7 @@
 <h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
 ---
-# Funcionalidades Principais
+# Funcionalidades Principais :open_file_folder:
 
 ## Botão de Mudança de Idiomas
 
@@ -36,7 +36,7 @@ As habilidades mencionadas incluem:
 `C#`
 Outras habilidades relevantes
 
-## Versão Mobile
+## Versão Mobile :iphone:
 
 O portfólio possui uma versão otimizada para dispositivos móveis.
 Na versão mobile, um menu é disponibilizado para visualizar a barra lateral (sidebar) de navegação.
@@ -46,7 +46,7 @@ Na versão mobile, um menu é disponibilizado para visualizar a barra lateral (s
 O rodapé contém links para as redes sociais do desenvolvedor.
 Também são fornecidas informações de contato.
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas :wrench:
 
 `Figma`: Utilizado para o design e prototipação do portfólio.
 
