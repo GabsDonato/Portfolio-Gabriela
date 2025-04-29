@@ -22,14 +22,15 @@ Os repositórios são exibidos no portfólio, fornecendo informações relevante
 ## Barra de Navegação (Navbar)
 
 A barra de navegação contém os seguintes itens:
-`HOME`: Redireciona para a página inicial do portfólio.
-`ABOUT ME`: Apresenta informações sobre o desenvolvedor.
-`EXPERIENCES`: Exibe as experiências e habilidades do desenvolvedor.
-`PROJECTS`: Mostra os projetos desenvolvidos.
+`PÁGINA INICIAL`: Redireciona para a página inicial do portfólio.
+`SOBRE MIM`: Apresenta informações sobre o desenvolvedor.
+`EXPERIENCIAS`: Exibe as experiências e habilidades do desenvolvedor.
+`PROJETOS`: Mostra os projetos desenvolvidos.
+`RODAPÉ`: Mostra algumas informaões pertinenter ao footer
 
 ## Seção de Experiências e Habilidades
 
-Na seção "EXPERIENCES", são apresentadas as habilidades do desenvolvedor, juntamente com atributos de desempenho.
+Na seção "EXPERIENCIAS", são apresentadas as habilidades do desenvolvedor, juntamente com atributos de desempenho.
 As habilidades mencionadas incluem:
 `React`
 `Java`
