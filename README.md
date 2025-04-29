@@ -63,7 +63,8 @@ Também são fornecidas informações de contato.
   <tr>
     <td align="center">
       <a href="https://github.com/GabsDonato">
-        <img src="" width="100px;" alt=""/><br>
+        <img src="![image](https://github.com/user-attachments/assets/0facc1eb-fb99-4953-80e1-4e31e7c9dbcb)
+" width="100px;" alt=""/><br>
         <sub>
           <b>Gabriela Donato</b>
         </sub>
