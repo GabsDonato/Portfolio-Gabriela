@@ -7,7 +7,7 @@
 <h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
 ---
-# Funcionalidades Principais :open_file_folder:
+#  Funcionalidades Principais :open_file_folder:
 
 ## Botão de Mudança de Idiomas
 
